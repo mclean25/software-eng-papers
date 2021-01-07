@@ -6,3 +6,4 @@ A list of software development reading papers for self improvement
 
 ## "Soft" skills
 [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
+[How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
