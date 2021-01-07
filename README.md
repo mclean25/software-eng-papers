@@ -1,8 +1,8 @@
-# software-eng-papers
+# Software Engineering Papaers
 A list of software development reading papers for self improvement
 
 ## Technical
 [Parsing Gigabytes of JSON per Second](https://arxiv.org/abs/1902.08318)
 
 ## "Soft" skills
-[How to Do Code Reviews Like a Human] (https://mtlynch.io/human-code-reviews-1/)
+[How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
